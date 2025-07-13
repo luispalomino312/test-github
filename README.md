@@ -1,4 +1,11 @@
 # test-github
+
+# Repositorio de Práctica DevOps
+"Este repositorio contiene ejercicios para el curso de DevOps."
+- Contribución realizada a través de un pull request
+
+Actualizacion de README desde branch DG-5
+=======
 # Proyecto DevOps & Project Management Fundamentals
 
 Este repositorio ha sido creado como parte del trabajo final del curso **DevOps & Project Management Fundamentals**. El objetivo es implementar un flujo de trabajo DevOps utilizando GitHub, con Integración Continua (CI), un enfoque colaborativo basado en GitHub Flow.
@@ -36,3 +43,4 @@ Este repositorio ha sido creado como parte del trabajo final del curso **DevOps 
 ---
 
 ##  Estructura del Repositorio
+
