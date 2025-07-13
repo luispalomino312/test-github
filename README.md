@@ -3,8 +3,6 @@
 
 Este repositorio ha sido creado como parte del trabajo final del curso **DevOps & Project Management Fundamentals**. El objetivo es implementar un flujo de trabajo DevOps utilizando GitHub, con Integración Continua (CI), un enfoque colaborativo basado en GitHub Flow.
 
----
-
 ## Objetivos del Proyecto
 
 - Aplicar prácticas básicas de DevOps utilizando herramientas open source.
@@ -12,8 +10,6 @@ Este repositorio ha sido creado como parte del trabajo final del curso **DevOps 
 - Implementar una estrategia de ramificación basada en **GitHub Flow**.
 - Usar **GitHub Actions** para ejecutar una pipeline de CI con linter de Markdown.
 - (Opcional) Desplegar contenido automáticamente a través de **GitHub Pages**.
-
----
 
 ## Flujo de Trabajo DevOps Implementado
 
