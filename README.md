@@ -36,5 +36,3 @@ Este repositorio ha sido creado como parte del trabajo final del curso **DevOps 
 ---
 
 ## Estructura del Repositorio
-
-
