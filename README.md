@@ -23,16 +23,3 @@ Este repositorio ha sido creado como parte del trabajo final del curso **DevOps 
 2. Los cambios se integran mediante Pull Requests hacia `main`.
 3. La rama `main` se mantiene siempre estable.
 4. Toda fusión a `main` requiere revisión y ejecución automática del pipeline de CI.
-
-### CI con GitHub Actions
-
-- Se ha implementado una pipeline que se ejecuta automáticamente en cada Pull Request hacia `main`.
-- La acción realiza un análisis de calidad básica con `markdownlint`, asegurando consistencia en los archivos `.md`.
-
-### (Opcional) GitHub Pages
-
-- El contenido del repositorio se despliega automáticamente como sitio web simple usando GitHub Pages desde la rama `main`, carpeta `/docs`.
-
----
-
-## Estructura del Repositorio
