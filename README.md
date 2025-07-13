@@ -1,7 +1,7 @@
 # Proyecto DevOps & Project Management Fundamentals
 
-Este repositorio forma parte del trabajo final del curso **DevOps & Project 
-Management Fundamentals**. Aquí se implementa un flujo DevOps básico utilizando 
+Este repositorio forma parte del trabajo final del curso **DevOps & Project
+Management Fundamentals**. Aquí se implementa un flujo DevOps básico utilizando
 GitHub Flow y GitHub Actions, integrando prácticas de CI/CD.
 
 ---
@@ -17,7 +17,7 @@ GitHub Flow y GitHub Actions, integrando prácticas de CI/CD.
 
 ## Flujo DevOps implementado
 
-Se utilizó una estrategia GitHub Flow, donde:
+Se utilizó una estrategia GitHub Flow, donde :
 
 - La rama main se mantiene siempre estable.
 - Cada cambio se realiza en ramas de características (feature/ o fix/).
