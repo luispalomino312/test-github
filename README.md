@@ -5,7 +5,7 @@ Este repositorio ha sido creado como parte del trabajo final del curso **DevOps 
 
 ---
 
-## 📌 Objetivos del Proyecto
+##  Objetivos del Proyecto
 
 - Aplicar prácticas básicas de DevOps utilizando herramientas open source.
 - Mantener un repositorio profesional en GitHub con documentación en Markdown.
@@ -15,24 +15,24 @@ Este repositorio ha sido creado como parte del trabajo final del curso **DevOps 
 
 ---
 
-## 🔁 Flujo de Trabajo DevOps Implementado
+##  Flujo de Trabajo DevOps Implementado
 
-### 📌 GitHub Flow
+###  GitHub Flow
 
 1. Todo desarrollo se realiza en ramas `feature/nombre`.
 2. Los cambios se integran mediante Pull Requests hacia `main`.
 3. La rama `main` se mantiene siempre estable.
 4. Toda fusión a `main` requiere revisión y ejecución automática del pipeline de CI.
 
-### ⚙️ CI con GitHub Actions
+###  CI con GitHub Actions
 
 - Se ha implementado una pipeline que se ejecuta automáticamente en cada Pull Request hacia `main`.
 - La acción realiza un análisis de calidad básica con `markdownlint`, asegurando consistencia en los archivos `.md`.
 
-### 🌐 (Opcional) GitHub Pages
+###  (Opcional) GitHub Pages
 
 - El contenido del repositorio se despliega automáticamente como sitio web simple usando GitHub Pages desde la rama `main`, carpeta `/docs`.
 
 ---
 
-## Estructura del Repositorio
+##  Estructura del Repositorio
